@@ -3,9 +3,9 @@
 namespace MyBundleNamespace;
 
 
-use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
+use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class MyBundle extends AbstractBundle
+class MyBundle extends Bundle
 {
 
 
