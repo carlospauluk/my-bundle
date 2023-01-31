@@ -17,10 +17,5 @@
         "psr-4": {
             "MyBundleNamespace\\Tests\\": "tests/"
         }
-    },
-    "config": {
-        "allow-plugins": {
-            "symfony/runtime": true
-        }
     }
 }
