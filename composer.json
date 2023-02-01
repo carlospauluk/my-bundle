@@ -1,6 +1,6 @@
 {
     "name": "carlospauluk/my-bundle",
-    "type": "project",
+    "type": "symfony-bundle",
     "license": "proprietary",
     "require": {
         "php": ">=8.1"
